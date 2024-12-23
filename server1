@@ -1,17 +1,20 @@
 [
     {
         "Server1": true,
-        "Version": "V1",
-        "CustomAnnouncement": "VINQ DEVELOPMENT: This game uses Vinq Development"
+        "Version": "1",
+        "CustomAnnouncement": "VINQ DEVELOPMENT: This game uses Vinq Development",
+        "script": warn("yay")
     },
     {
          "Server2": true,
-        "Version": "Servers are down. Send help.",
-        "CustomAnnouncement": ""
+        "Version": "1",
+        "CustomAnnouncement": "",
+        "script": warn("yay")
     },
     {
         "Server3": true,
-        "Version": "Servers are down. Send help.",
-        "CustomAnnouncement": ""
+        "Version": "1",
+        "CustomAnnouncement": "",
+        "script": warn("yay")
     }
 ]
