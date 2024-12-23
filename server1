@@ -9,7 +9,7 @@
         "Server2": true,
         "Version": "1",
         "CustomAnnouncement": "",
-        "script": "warn('yay')"
+        "script": "return function() warn('yay') end"
     },
     {
         "Server3": true,
