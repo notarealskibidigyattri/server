@@ -1,0 +1,14 @@
+[
+    {
+        "Server": true,
+        "DisabledMessage": "Servers are down. Send help."
+    },
+    {
+        "Server1": false,
+        "DisabledMessage": "Servers are down. Send help."
+    },
+    {
+        "Server2": true,
+        "DisabledMessage": "Servers are down. Send help."
+    }
+]
