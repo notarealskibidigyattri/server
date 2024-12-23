@@ -3,18 +3,18 @@
         "Server1": true,
         "Version": "1",
         "CustomAnnouncement": "VINQ DEVELOPMENT: This game uses Vinq Development",
-        "script": warn("yay")
+        "script": "warn('yay')"
     },
     {
-         "Server2": true,
+        "Server2": true,
         "Version": "1",
         "CustomAnnouncement": "",
-        "script": warn("yay")
+        "script": "warn('yay')"
     },
     {
         "Server3": true,
         "Version": "1",
         "CustomAnnouncement": "",
-        "script": warn("yay")
+        "script": "warn('yay')"
     }
 ]
