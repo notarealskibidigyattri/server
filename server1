@@ -1,14 +1,17 @@
 [
     {
-        "Server": true,
-        "DisabledMessage": "Servers are down. Send help."
+        "Server1": true,
+        "Version": "V1",
+        "CustomAnnouncement": "VINQ DEVELOPMENT: This game uses Vinq Development"
     },
     {
-        "Server1": false,
-        "DisabledMessage": "Servers are down. Send help."
+         "Server2": true,
+        "Version": "Servers are down. Send help.",
+        "CustomAnnouncement": ""
     },
     {
-        "Server2": true,
-        "DisabledMessage": "Servers are down. Send help."
+        "Server3": true,
+        "Version": "Servers are down. Send help.",
+        "CustomAnnouncement": ""
     }
 ]
