@@ -10,6 +10,6 @@
     },
     {
         "Server3": true,
-        "script": "warn(3)"
+        "script": "prefunction3"
     }
 ]
