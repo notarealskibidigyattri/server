@@ -7,7 +7,7 @@
     },
     {
         "Server2": true,
-        "Version": "1",
+        "Version": "4",
         "CustomAnnouncement": "",
         "script": "prefunction1"
     },
