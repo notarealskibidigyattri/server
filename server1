@@ -13,7 +13,7 @@
     },
     {
         "Server3": true,
-        "Version": "1",
+        "Version": "3",
         "CustomAnnouncement": "",
         "script": "warn('yay')"
     }
