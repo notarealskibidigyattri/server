@@ -1,7 +1,7 @@
 [
 {
         "Server1": true,
-        "script": "warn("yesss")"
+        "script": "warn('yesss')"
     },
     {
         "Server2": true,
