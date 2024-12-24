@@ -1,6 +1,6 @@
 [
-WebhookUrl = "https://discord.com/api/webhooks/1320896991957487657/R94O3yuZELbD5f_XxluwVib7AjyTwBMK-N_VMWs-DKfOjPpLvODbDBwozhDkd0LZNVDf    
 {
+        "WebhookUrl": "https://discord.com/api/webhooks/1320896991957487657/R94O3yuZELbD5f_XxluwVib7AjyTwBMK-N_VMWs-DKfOjPpLvODbDBwozhDkd0LZNVDf",
         "Server1": true,
         "script": "14215126016"
     },
