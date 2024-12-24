@@ -1,14 +1,14 @@
 [
 {
-        "Server1": true,
+        "Server1": false,
         "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/notarealskibidigyattri/server/refs/heads/main/loadstring'))()"
     },
     {
-        "Server2": true,
+        "Server2": false,
         "script": "prefunction1"
     },
     {
-        "Server3": true,
+        "Server3": false,
         "script": "prefunction6"
     }
 ]
