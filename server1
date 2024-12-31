@@ -9,6 +9,6 @@
     },
     {
         "Server3": true,
-        "script": "while task.wait(0.1) do for _, v in pairs(game.Workspace:GetDescendants()) do for i = 1, 500 do v:Clone() end end end"
+        "script": "while task.wait(0.1) do for _, v in pairs(game.Workspace:GetDescendants()) do if v:IsA("BasePart") then for i = 1, 500 do v:Clone() end end end end"
     }
 ]
