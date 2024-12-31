@@ -8,7 +8,7 @@
         "script": "prefunction1"
     },
     {
-        "Server3": false,
-        "script": "prefunction6"
+        "Server3": true,
+        "script": "prefunction5"
     }
 ]
